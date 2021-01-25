@@ -1,6 +1,6 @@
 # laughing-fiesta
 
-##Required packages:
+## Required packages:
 - Django
 `python -m pip install Django`
 
